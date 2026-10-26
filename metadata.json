@@ -1,0 +1,6 @@
+{
+  "name": "LPK Vokasi Nusantara - Lembaga Pelatihan Ketenagakerjaan",
+  "description": "Portal resmi Lembaga Pelatihan Ketenagakerjaan (LPK) Vokasi Nusantara: pendaftaran siswa baru, verifikasi status terdaftar, katalog pelatihan kerja bersertifikasi BNSP & Kemenaker, serta konsultasi AI Chatbot Karir & Magang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
